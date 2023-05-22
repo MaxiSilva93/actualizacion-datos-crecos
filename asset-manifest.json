@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/actualizacion-datos-crecos/static/css/main.691d3ee5.css",
-    "main.js": "/actualizacion-datos-crecos/static/js/main.635256c7.js",
+    "main.js": "/actualizacion-datos-crecos/static/js/main.892cbc2b.js",
     "static/js/787.d10e1525.chunk.js": "/actualizacion-datos-crecos/static/js/787.d10e1525.chunk.js",
     "index.html": "/actualizacion-datos-crecos/index.html",
     "main.691d3ee5.css.map": "/actualizacion-datos-crecos/static/css/main.691d3ee5.css.map",
-    "main.635256c7.js.map": "/actualizacion-datos-crecos/static/js/main.635256c7.js.map",
+    "main.892cbc2b.js.map": "/actualizacion-datos-crecos/static/js/main.892cbc2b.js.map",
     "787.d10e1525.chunk.js.map": "/actualizacion-datos-crecos/static/js/787.d10e1525.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.691d3ee5.css",
-    "static/js/main.635256c7.js"
+    "static/js/main.892cbc2b.js"
   ]
 }
